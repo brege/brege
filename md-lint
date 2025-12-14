@@ -1,0 +1,61 @@
+#!/usr/bin/env bash
+set -euo pipefail
+shopt -s globstar
+
+WIDTH=72
+FILES=()
+
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        -h|--help)
+            echo "Usage: md-lint [WIDTH] [FILE...]"
+            exit 0
+            ;;
+        -*)
+            echo "Unknown option: $1" >&2
+            exit 1
+            ;;
+        *)
+            if [[ -z "${WIDTH_SET:-}" ]] && [[ "$1" =~ ^[0-9]+$ ]]; then
+                WIDTH="$1"
+                WIDTH_SET=true
+            else
+                FILES+=("$1")
+            fi
+            shift
+            ;;
+    esac
+done
+
+if [[ ${#FILES[@]} -eq 0 ]]; then
+    echo "Usage: md-lint [WIDTH] [FILE...]" >&2
+    exit 1
+fi
+
+filter_dir="$(dirname "$(readlink -f "$0")")"
+found_violation=0
+num_files=${#FILES[@]}
+
+for file in "${FILES[@]}"; do
+    if [[ $num_files -gt 1 ]]; then
+        echo "$file"
+    fi
+
+    output=$(pandoc "$file" \
+      -f commonmark+sourcepos \
+      --lua-filter="$filter_dir/md-width.lua" \
+      -M "width:$WIDTH" \
+      -t plain || true)
+
+    if [[ -n "$output" ]]; then
+        violations=$(echo "$output" | grep -v "warning(s)")
+        echo "$violations" | awk -F'|' '!seen[$1]++ {print}'
+        violation_count=$(echo "$violations" | awk -F'|' '{print $1}' | sort -u | wc -l)
+        if [[ $violation_count -gt 0 ]]; then
+            echo "$violation_count warning(s)"
+            found_violation=1
+        fi
+    fi
+done
+
+exit $found_violation

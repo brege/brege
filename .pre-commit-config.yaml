@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: md-lint
+        name: check rendered markdown line length
+        entry: ./md-lint 86
+        language: script
+        types: [markdown]
