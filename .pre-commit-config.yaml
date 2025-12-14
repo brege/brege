@@ -3,6 +3,6 @@ repos:
     hooks:
       - id: md-lint
         name: check rendered markdown line length
-        entry: ./md-lint 86
+        entry: ./md-lint 82
         language: script
         types: [markdown]

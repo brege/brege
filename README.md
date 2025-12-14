@@ -20,7 +20,7 @@
   · federated monitoring dashboard for Linux machines
 - [**oshea**](https://github.com/brege/oshea)
   · [plugins](https://github.com/brege/oshea-plugins)
-  · Node.js Markdown-to-PDF converter with extensible plugin system
+  · Node.js Markdown-to-PDF plugin and QA framework
 - [plex-letterboxd](https://github.com/brege/plex-letterboxd)
   · [PyPI](https://pypi.org/project/plex-letterboxd/)
   · Plex watch-history export daemon for Letterboxd
@@ -37,9 +37,9 @@
   · scraping culinary texts for flavor pairing affinities
 - [tinybeans-sync](https://github.com/brege/tinybeans-sync)
   · [PyPI](https://pypi.org/project/tinybeans-sync/)
-  · download high-quality photos from [tinybeans](https://tinybeans.com) photo journals
+  · download original-quality photos from [tinybeans](https://tinybeans.com)
 - [kometa-letterboxd](https://github.com/brege/kometa-letterboxd) 
-  · a [kometa](https://github.com/kometa-team/kometa) integration of [Letterboxd Showdowns](https://letterboxd.com/showdown/) into [Plex](https://plex.tv)
+  · a [kometa](https://github.com/kometa-team/kometa) integration for [Letterboxd Showdowns](https://letterboxd.com/showdown/) in [Plex](https://plex.tv)
 - [tabslx](https://github.com/brege/tabslx) 
   · batch convert guitar chords from 
   [Tabs-Lite](https://github.com/More-Than-Solitaire/Tabs-Lite)
