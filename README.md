@@ -10,7 +10,7 @@
 
 - [**aoife**](https://github.com/brege/aoife)
   · [**demo**](https://aoife.brege.org)
-  · mixed-media poster matrix React app
+  · mixed-media poster matrix in React
 - [**the-flavor-network**](https://github.com/brege/the-flavor-network)
   · [**demo**](https://flavorpair.me)
   · visualizing flavor pairings through network graphs 
@@ -45,31 +45,31 @@
   [Tabs-Lite](https://github.com/More-Than-Solitaire/Tabs-Lite)
   exports into text files
 - [thunder-muscle](https://github.com/brege/thunder-muscle)
-  · Python API to datamine Thunderbird profiles
+  · Python API to data-mine/visualize emails from [Thunderbird](https://www.thunderbird.net)
 
 ## Utils
 
 - [ilma](https://github.com/brege/ilma)
-  · multi-Linux machine encrypted snapshot manager in pure-Bash
+  · multi-Linux machine encrypted snapshot manager in Shell
 - [agent-md](https://github.com/brege/agent-md)
-  · intraagent manager for Claude Code and ChatGPT's Codex CLI
+  · intraagent manager for Claude Code and Codex (OpenAI)
 - [agent-janitor](https://github.com/brege/agent-janitor)
   · remove caches and breadcrumbs left behind by Claude & Codex
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
-  · [porkbun](https://porkbun.com) DDNS updater
+  · DDNS updater for [porkbun](https://porkbun.com) (a [ddclient](https://github.com/ddclient/ddclient) alterntive)
 
 ## Academic
 
 - [brege-dissertation](https://github.com/brege/brege-dissertation)
-  · LaTeX and figures of my dissertation
+  · my dissertation: LaTeX chapters, figures, tables, etc.
 - [wsu-dissertation-template](https://github.com/brege/wsu-dissertation-template)
-  · LaTeX template for WSU dissertations
+  · LaTeX template for WSU dissertations (re:[mbdeaton](https://github.com/mbdeaton))
 - [SpEC: Spectral Einstein Code](https://www.black-holes.org/for-researchers/spec)
-  · links to black-holes.org
+  · links to [black-holes.org](https://www.black-holes.org) (numerical relativity)
 - [bhns-scripts](https://github.com/brege/bhns-scripts)
   · wrangling BHNS data on HPC clusters
 - [bhns-gnuplot-scripts](https://github.com/brege/bhns-gnuplot-scripts)
-  · publication-grade gnuplot scripts with LaTeX support
+  · publication-grade gnuplot scripts with inline LaTeX
 - [find-political-donors](https://github.com/brege/find-political-donors)
-  · 2017 data science challenge for Insight Fellowship app
+  · 2017 data science challenge for Insight Fellowship
 
