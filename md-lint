@@ -43,7 +43,7 @@ for file in "${FILES[@]}"; do
 
     output=$(pandoc "$file" \
       -f commonmark+sourcepos \
-      --lua-filter="$filter_dir/md-width.lua" \
+      --lua-filter="$filter_dir/line-length.lua" \
       -M "width:$WIDTH" \
       -t plain || true)
 

@@ -34,7 +34,7 @@
 ## Scraping
 
 - [**flavor-project**](https://github.com/brege/flavor-project)
-  · scraping culinary texts for flavor pairing affinities
+  · scraping culinary texts to build [the-flavor-network](https://github.com/brege/the-flavor-network)
 - [tinybeans-sync](https://github.com/brege/tinybeans-sync)
   · [PyPI](https://pypi.org/project/tinybeans-sync/)
   · download original-quality photos from [tinybeans](https://tinybeans.com)
