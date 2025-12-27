@@ -1,4 +1,4 @@
-<a href="https://github.com/brege/gh-social-preview"><img src="banner.png" width="100%" height="100%" /></a>
+<a href="https://github.com/brege/oshea-gh-social-preview"><img src="banner.png" width="100%" height="100%" /></a>
 
 ## Website
 
@@ -49,12 +49,14 @@
 
 ## Utils
 
-- [ilma](https://github.com/brege/ilma)
-  · multi-Linux machine encrypted snapshot manager in Shell
+- [dewey-decimal-skill](https://github.com/brege/dewey-decimal-skill)
+  · a Claude Code agent for EPUB [Dewey Decimal](https://en.wikipedia.org/wiki/Dewey_decimal_system) organization
 - [agent-md](https://github.com/brege/agent-md)
   · intraagent manager for Claude Code and Codex (OpenAI)
 - [agent-janitor](https://github.com/brege/agent-janitor)
   · remove caches and breadcrumbs left behind by Claude & Codex
+- [**ilma**](https://github.com/brege/ilma)
+  · multi-Linux machine encrypted snapshot manager in Shell
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · DDNS updater for [porkbun](https://porkbun.com) (a [ddclient](https://github.com/ddclient/ddclient) alterntive)
 
