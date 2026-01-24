@@ -44,8 +44,8 @@
   · batch convert guitar chords from 
   [Tabs-Lite](https://github.com/More-Than-Solitaire/Tabs-Lite)
   exports into text files
-- [thunder-muscle](https://github.com/brege/thunder-muscle)
-  · Python API to data-mine/visualize emails from [Thunderbird](https://www.thunderbird.net)
+- [sanoma](https://github.com/brege/sanoma)
+  · Data-mine and visualize emails from [Thunderbird](https://www.thunderbird.net)
 
 ## Utils
 
