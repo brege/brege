@@ -15,9 +15,10 @@
   · [**demo**](https://flavorpair.me)
   · visualizing flavor pairings through network graphs 
 - [**monitor@**](https://github.com/brege/monitorat)
+  · [**demo**](https://monitorat.brege.org)
   · [widgets](https://github.com/brege/monitorat-widget-packages)
   · [PyPI](https://pypi.org/project/monitorat/)
-  · federated monitoring dashboard for Linux machines
+  · federated dashboard for Linux Homelabs
 - [**oshea**](https://github.com/brege/oshea)
   · [plugins](https://github.com/brege/oshea-plugins)
   · Node.js Markdown-to-PDF plugin and QA framework
@@ -45,18 +46,18 @@
   [Tabs-Lite](https://github.com/More-Than-Solitaire/Tabs-Lite)
   exports into text files
 - [sanoma](https://github.com/brege/sanoma)
-  · Data-mine and visualize emails from [Thunderbird](https://www.thunderbird.net)
+  · data-mine and visualize emails from [Thunderbird](https://www.thunderbird.net)
 
 ## Utils
 
 - [dewey-decimal-skill](https://github.com/brege/dewey-decimal-skill)
   · a Claude Code agent for EPUB [Dewey Decimal](https://en.wikipedia.org/wiki/Dewey_decimal_system) organization
 - [agent-md](https://github.com/brege/agent-md)
-  · intraagent manager for Claude Code and Codex (OpenAI)
+  · intra-agent manager for Claude Code and Codex (OpenAI)
 - [agent-janitor](https://github.com/brege/agent-janitor)
   · remove caches and breadcrumbs left behind by Claude & Codex
 - [**ilma**](https://github.com/brege/ilma)
-  · multi-Linux machine encrypted snapshot manager in Shell
+  · multi-Linux machine encrypted snapshot manager in Bash
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · DDNS updater for [porkbun](https://porkbun.com) (a [ddclient](https://github.com/ddclient/ddclient) alterntive)
 
