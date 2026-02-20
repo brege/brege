@@ -47,8 +47,8 @@
   exports into text files
 - [sanoma](https://github.com/brege/sanoma)
   · data-mine and visualize emails from [Thunderbird](https://www.thunderbird.net)
-- [image-activity](https://github.com/brege/image-activity)
-  · imprints of life/device changes in screenshots & camera rolls
+- [**bruki**](https://github.com/brege/bruki)
+  · image tagging and imprints of life/device changes
 
 ## Utils
 
