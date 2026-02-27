@@ -6,6 +6,8 @@
   · [source](https://github.com/brege/brege.org)
   · blog posts, CV, JavaScript experiments, recipes, socials
 
+<!-- cv-projects-start --> 
+
 ## Apps
 
 - [**aoife**](https://github.com/brege/aoife)
@@ -50,7 +52,7 @@
 - [**ilma**](https://github.com/brege/ilma)
   · multi-Linux machine encrypted snapshot manager in Bash
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
-  ·[ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
+  · [ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
 
 ## Extensions
 
@@ -67,6 +69,8 @@
   [apprise](https://github.com/caronc/apprise)
 - [kometa-letterboxd](https://github.com/brege/kometa-letterboxd) 
   · rotate [Letterboxd Showdowns](https://letterboxd.com/showdown/) as [Plex](https://plex.tv) collections with [kometa](https://github.com/Kometa-Team/kometa)
+
+<!-- cv-projects-end --> 
 
 ## Academic
 
