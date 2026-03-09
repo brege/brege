@@ -45,6 +45,8 @@
 
 - [dewey-decimal-skill](https://github.com/brege/dewey-decimal-skill)
   · a Claude Code agent for EPUB [Dewey Decimal](https://en.wikipedia.org/wiki/Dewey_decimal_system) organization
+- [dil](https://github.com/brege/dil)
+  · find and clean project litter like node\_modules, \_\_pycache\_\_, *.aux, etc.
 - [agent-md](https://github.com/brege/agent-md)
   · intra-agent manager for Claude Code and Codex (OpenAI)
 - [agent-janitor](https://github.com/brege/agent-janitor)
