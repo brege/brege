@@ -43,15 +43,17 @@
 
 ## Utils
 
+- [**sak**](https://github.com/brege/sak)
+  · rustic in reverse, which uses a fork of [rustic-core](https://github.com/brege/rustic_core)
+- [**dil**](https://github.com/brege/dil)
+  · find and clean project litter like node\_modules, \_\_pycache\_\_, \*.aux, etc.
 - [dewey-decimal-skill](https://github.com/brege/dewey-decimal-skill)
   · a Claude Code agent for EPUB [Dewey Decimal](https://en.wikipedia.org/wiki/Dewey_decimal_system) organization
-- [dil](https://github.com/brege/dil)
-  · find and clean project litter like node\_modules, \_\_pycache\_\_, *.aux, etc.
 - [agent-md](https://github.com/brege/agent-md)
   · intra-agent manager for Claude Code and Codex (OpenAI)
 - [agent-janitor](https://github.com/brege/agent-janitor)
   · remove caches and breadcrumbs left behind by coding agents
-- [**ilma**](https://github.com/brege/ilma)
+- [ilma](https://github.com/brege/ilma)
   · multi-Linux machine encrypted snapshot manager in Bash
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · [ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
