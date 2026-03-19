@@ -18,12 +18,11 @@
   · visualizing flavor pairings through network graphs 
 - [**monitor@**](https://github.com/brege/monitorat)
   · [**demo**](https://monitorat.brege.org)
-  · [widgets](https://github.com/brege/monitorat-widget-packages)
   · [PyPI](https://pypi.org/project/monitorat/)
   · federated dashboard for Linux homelabs
 - [**oshea**](https://github.com/brege/oshea)
-  · [**npm**](https://www.npmjs.com/package/oshea)
-  · [plugins](https://github.com/brege/oshea-plugins)
+  · [npm](https://www.npmjs.com/package/oshea)
+  · [plugin index](https://github.com/brege/oshea-plugins)
   · Node.js Markdown-to-PDF plugin framework
 
 ## Scraping
@@ -47,17 +46,27 @@
 - [**sak**](https://github.com/brege/sak)
   · rustic in reverse, which uses a fork of [rustic-core](https://github.com/brege/rustic_core)
 - [**dil**](https://github.com/brege/dil)
-  · find and clean project litter like node\_modules, \_\_pycache\_\_, \*.aux, etc.
-- [dewey-decimal-skill](https://github.com/brege/dewey-decimal-skill)
-  · a Claude Code agent for EPUB [Dewey Decimal](https://en.wikipedia.org/wiki/Dewey_decimal_system) organization
-- [agent-md](https://github.com/brege/agent-md)
-  · intra-agent manager for Claude Code and Codex (OpenAI)
-- [agent-janitor](https://github.com/brege/agent-janitor)
-  · remove caches and breadcrumbs left behind by coding agents
+  · find and prune project build artifacts before archiving
 - [ilma](https://github.com/brege/ilma)
   · multi-Linux machine encrypted snapshot manager in Bash
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · [ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
+
+
+## Agents
+
+- [dewey-decimal-skill](https://github.com/brege/dewey-decimal-skill)
+  · a Claude Code agent for EPUB [Dewey Decimal](https://en.wikipedia.org/wiki/Dewey_decimal_system) organization
+- [agent-md](https://github.com/brege/agent-md)
+  · intra-agent manager for Claude Code and Codex (OpenAI)
+- [oshea-claude-skills](https://github.com/brege/oshea/blob/main/docs/guides/claude-skills.md)
+  · creating oshea plugins with [Claude](https://claude.ai) skills
+- [monitorat-agents](https://github.com/brege/monitorat-widget-packages)
+  · a Claude Code agent for [monitorat](https://github.com/brege/monitorat) widget creation
+- [agent-janitor](https://github.com/brege/agent-janitor)
+  · remove caches and breadcrumbs left behind by coding agents
+- [bruki's ML](https://github.com/brege/bruki/tree/main/notebooks/)
+  · TensorFlow, PyTorch, CLIP, OCR, and analysis notebooks for [bruki](https://github.com/brege/bruki)
 
 ## Extensions
 
