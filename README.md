@@ -4,7 +4,8 @@
 
 - [**brege.org**](https://brege.org)
   · [source](https://github.com/brege/brege.org)
-  · blog posts, CV, JavaScript experiments, recipes, socials
+  · [theme](https://github.com/brege/gastrophysics)
+  · articles, CV, recipes, menus, contact info
 
 <!-- cv-projects-start --> 
 
@@ -51,7 +52,8 @@
   · multi-Linux machine encrypted snapshot manager in Bash
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · [ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
-
+- [ghrm](https://github.com/brege/ghrm)
+  · preview GitHub-style READMEs in browser via Hugo + Neovim extension
 
 ## Agents
 
@@ -70,6 +72,8 @@
 
 ## Extensions
 
+- [gastrophysics](https://github.com/brege/gastrophysics)
+  · a multi-polar career theme for Hugo (used in [brege.org](https://github.com/brege/brege.org))
 - [oshea-plugins](https://github.com/brege/oshea-plugins)
   · an index of non-bundled [oshea](https://github.com/brege/oshea) plugins
 - [plex-letterboxd](https://github.com/brege/plex-letterboxd)
