@@ -25,6 +25,8 @@
   · [npm](https://www.npmjs.com/package/oshea)
   · [plugin index](https://github.com/brege/oshea-plugins)
   · Node.js Markdown-to-PDF plugin framework
+- [**bruki**](https://github.com/brege/bruki)
+  · self-hosted screenshot tagging server
 
 ## Scraping
 
@@ -32,8 +34,6 @@
   · scraping culinary texts to build [the-flavor-network](https://github.com/brege/the-flavor-network)
 - [sanoma](https://github.com/brege/sanoma)
   · data mining and visualizing emails from [Thunderbird](https://www.thunderbird.net)
-- [**bruki**](https://github.com/brege/bruki)
-  · self-hosted screenshot tagging server and digital image trends
 - [tinybeans-sync](https://github.com/brege/tinybeans-sync)
   · [PyPI](https://pypi.org/project/tinybeans-sync/)
   · download original quality photos from [Tinybeans](https://tinybeans.com)
