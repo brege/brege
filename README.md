@@ -7,8 +7,6 @@
   · [theme](https://github.com/brege/gastrophysics)
   · articles, CV, recipes, menus, contact info
 
-<!-- cv-projects-start --> 
-
 ## Apps
 
 - [**aoife**](https://github.com/brege/aoife)
@@ -53,7 +51,7 @@
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · [ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
 - [ghrm](https://github.com/brege/ghrm)
-  · preview GitHub-style READMEs in browser via Hugo + Neovim extension
+  · preview GitHub-style READMEs in browser via [Hugo](https://gohugo.io) + [Neovim](https://neovim.io) extension
 
 ## Agents
 
@@ -73,7 +71,8 @@
 ## Extensions
 
 - [gastrophysics](https://github.com/brege/gastrophysics)
-  · a multi-polar career theme for Hugo (used in [brege.org](https://github.com/brege/brege.org))
+  · [demo](https://gastrophysics.brege.org)
+  · a multi-polar career theme for [Hugo](https://github.com/gohugoio/hugo) (used in [brege.org](https://github.com/brege/brege.org))
 - [oshea-plugins](https://github.com/brege/oshea-plugins)
   · an index of non-bundled [oshea](https://github.com/brege/oshea) plugins
 - [plex-letterboxd](https://github.com/brege/plex-letterboxd)
@@ -87,8 +86,6 @@
   [apprise](https://github.com/caronc/apprise)
 - [kometa-letterboxd](https://github.com/brege/kometa-letterboxd) 
   · rotate [Letterboxd Showdowns](https://letterboxd.com/showdown/) as [Plex](https://plex.tv) collections with [kometa](https://github.com/Kometa-Team/kometa)
-
-<!-- cv-projects-end --> 
 
 ## Academic
 
