@@ -1,4 +1,4 @@
-<a href="https://github.com/brege/oshea-gh-social-preview"><img src="banner.png" width="100%" height="100%" /></a>
+<a href="https://github.com/brege/oshea-gh-social-preview"><img src="banner.png" width="100%" /></a>
 
 ## Website
 
@@ -51,7 +51,7 @@
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · [ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
 - [ghrm](https://github.com/brege/ghrm)
-  · preview GitHub-style READMEs in browser via [Hugo](https://gohugo.io) + [Neovim](https://neovim.io) extension
+  · preview GitHub-style READMEs in browser + a [Neovim](https://neovim.io) extension
 
 ## Agents
 
