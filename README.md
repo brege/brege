@@ -57,8 +57,8 @@
 
 - [dewey-decimal-skill](https://github.com/brege/dewey-decimal-skill)
   · a Claude Code agent for EPUB [Dewey Decimal](https://en.wikipedia.org/wiki/Dewey_decimal_system) organization
-- [agent-md](https://github.com/brege/agent-md)
-  · intra-agent manager for Claude Code and Codex (OpenAI)
+- [agent-db](https://github.com/brege/agent-db)
+  · intraagent instruction, skill, & config manager for Claude and Codex
 - [oshea-claude-skills](https://github.com/brege/oshea/blob/main/docs/guides/claude-skills.md)
   · creating oshea plugins with [Claude](https://claude.ai) skills
 - [monitorat-agents](https://github.com/brege/monitorat-widget-packages)
