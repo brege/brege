@@ -42,7 +42,7 @@
 
 ## Utils
 
-- [**sak**](https://github.com/brege/sak)
+- [sak](https://github.com/brege/sak)
   · rustic in reverse, which uses a fork of [rustic-core](https://github.com/brege/rustic_core)
 - [**dil**](https://github.com/brege/dil)
   · find and prune project build artifacts before archiving
@@ -50,8 +50,9 @@
   · multi-Linux machine encrypted snapshot manager in Bash
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · [ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
-- [ghrm](https://github.com/brege/ghrm)
-  · preview GitHub-style READMEs in browser + a [Neovim](https://neovim.io) extension
+- [**ghrm**](https://github.com/brege/ghrm)
+  · [crates.io](https://crates.io/crates/ghrm/)
+  · browse your filesystem like it's on GitHub (+[Neovim](https://neovim.io) plugin)
 
 ## Agents
 
