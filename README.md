@@ -35,10 +35,11 @@
   · scraping culinary texts to build [the-flavor-network](https://github.com/brege/the-flavor-network)
 - [sanoma](https://github.com/brege/sanoma)
   · data mining and visualizing emails from [Thunderbird](https://www.thunderbird.net)
-- [tabslx](https://github.com/brege/tabslx) 
+- [tabslx](https://github.com/brege/tabslx)
+  · [npm](https://www.npmjs.com/package/@brege/tabslx)
   · batch convert guitar chords from 
   [Tabs-Lite](https://github.com/More-Than-Solitaire/Tabs-Lite)
-  exports into text files
+  exports to .txt
 - [tinybeans-sync](https://github.com/brege/tinybeans-sync)
   · [PyPI](https://pypi.org/project/tinybeans-sync/)
   · download original quality photos from [Tinybeans](https://tinybeans.com)
