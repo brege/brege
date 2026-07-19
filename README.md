@@ -48,8 +48,8 @@
 
 - [**dil**](https://github.com/brege/dil)
   · find and prune project build artifacts before archiving
-- [ilma](https://github.com/brege/ilma)
-  · multi-Linux machine encrypted snapshot manager in Bash
+- [ilma-rs](https://github.com/brege/ilma-rs)
+  · multi-Linux machine encrypted snapshot manager in Rust
 - [porkbun-ddns](https://github.com/brege/porkbun-ddns)
   · [ddclient](https://github.com/ddclient/ddclient) alternative for [Porkbun](https://porkbun.com) DDNS updates
 - [sak](https://github.com/brege/sak)
